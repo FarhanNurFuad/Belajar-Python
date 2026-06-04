@@ -1,0 +1,13 @@
+nama = input("Masukan Nama :")
+umur = int(input("Masukan Umur :"))
+tinggi = float(input("Masukan Tinggi Badan :"))
+berat = float(input("Masukan Berat Badan :"))
+kota = input("Masukkan Kota :")
+
+print ()
+print ("===== BIODATA =====")
+print ("Nama :", nama)
+print ("Umur :", umur)
+print ("Tinggi Badan :", tinggi)
+print ("Berat Badan :", berat)
+print ("Kota :", kota)
