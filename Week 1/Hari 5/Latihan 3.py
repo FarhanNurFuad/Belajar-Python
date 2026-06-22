@@ -4,4 +4,4 @@ def hitung_diskon(harga):
     else :
         return harga
 
-print(hitung_diskon(15000))
+print(hitung_diskon(150000))

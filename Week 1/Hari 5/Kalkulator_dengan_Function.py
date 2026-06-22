@@ -13,5 +13,5 @@ def bagi(a, b):
 
 print (f"Penjumlahan ={tambah(angka1, angka2)}")
 print (f"Pengurangan ={kurang(angka1, angka2)}")
-print (f"Peerkalian ={kali(angka1, angka2)}")
+print (f"Perkalian ={kali(angka1, angka2)}")
 print (f"Pembagian ={bagi(angka1, angka2)}")

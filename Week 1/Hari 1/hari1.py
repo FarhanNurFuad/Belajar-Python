@@ -31,7 +31,7 @@ print (f"Nama saya {nama}")
 
 #Input dari pengguna
 nama = input("Masukkan Nama :")
-umur = input("Masukkan Umur :")
+umur = int(input("Masukkan Umur :"))
 
 print ("Halo", nama)
 print (umur)
